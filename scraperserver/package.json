@@ -1,0 +1,16 @@
+{
+  "name": "scraper_server",
+  "version": "1.0.0",
+  "description": "server scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso diaz",
+  "license": "ISC",
+  "dependencies": {
+    "e": "0.0.4",
+    "express": "^4.17.1",
+    "puppeteer": "^5.2.1"
+  }
+}
